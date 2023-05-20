@@ -1,7 +1,7 @@
 # Hello there 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=victorpreston.victorpreston)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ```python
 #!/usr/bin/python
