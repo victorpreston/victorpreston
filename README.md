@@ -46,6 +46,11 @@ me.say_hi()
 **Cybersecurity Engineer** &#12299;_specialised in Offensive Attacks and Vulnerability assessment and management.
 
 ----
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <a href="https://twitter.com/VictorP73684982">
   <img align="left" alt="Preston's' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
@@ -62,8 +67,4 @@ me.say_hi()
 
 | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://victorpreston.github.io/victorpreston/] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
