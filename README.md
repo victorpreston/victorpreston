@@ -61,3 +61,9 @@ me.say_hi()
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website & Gallery : [https://victorpreston.github.io/victorpreston/] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
