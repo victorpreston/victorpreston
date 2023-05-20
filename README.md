@@ -39,7 +39,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 
-## Roles
+## 👨‍💻 Roles
 
 **Software Engineer** &#12299;_working in Data, Web application development, fullstack development.
 <br/>
