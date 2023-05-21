@@ -45,10 +45,10 @@ me.say_hi()
 <br/>
 **Cybersecurity Engineer** &#12299;_specialised in Offensive Attacks and Vulnerability assessment and management.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpreston&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tridence&theme=github_dark)
 
 ----
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+                        ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpreston&theme=github_dark) 
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
