@@ -45,6 +45,8 @@ me.say_hi()
 <br/>
 **Cybersecurity Engineer** &#12299;_specialised in Offensive Attacks and Vulnerability assessment and management.
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpreston&theme=github_dark)
+
 ----
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
