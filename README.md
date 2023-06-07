@@ -38,7 +38,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpreston&theme=github_dark) 
-## 👨‍💻 Roles
 
 ----
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
