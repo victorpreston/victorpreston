@@ -41,7 +41,6 @@ me.say_hi()
 
 ----
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-![](https://github-profile-trophy.vercel.app/?victorpreston=ryo-ma&theme=radical)
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
