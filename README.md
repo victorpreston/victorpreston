@@ -1,8 +1,8 @@
 <h1 align='center'>Hello there 👋</h1>
-<div align='center'>
-    <a href="">[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)</a>
-    <a href="">![visitors](https://visitor-badge.laobi.icu/badge?page_id=victorpreston.victorpreston)</a>
-</div>
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=victorpreston.victorpreston)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
