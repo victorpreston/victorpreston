@@ -24,7 +24,7 @@ me.say_hi()
 ```
 
 ----
-<h1 align='center'>⚡️<i>🔧 Technologies & Tools</i>⚡️</h1>
+<h3 align='center'>🔧 Technologies & Tools</h3>
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
