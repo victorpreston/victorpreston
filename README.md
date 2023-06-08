@@ -41,7 +41,7 @@ me.say_hi()
 
 ----
 <h1 align='center'>⚡️<i>Xpert</i>⚡️</h1>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?victorpreston=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
