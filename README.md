@@ -26,7 +26,7 @@ class CybersecurityXpert:
         self.languages_spoken = ["en_US", "es_ES"]
         self.certifications = [
             {"name": "Ethical Hacking Essentials (EHE)", "year": 2023},
-            {"name": "Cisco Certified Cybersecurity Support Technician (CCST)", "year": 2021},
+            {"name": "Cisco Certified Cybersecurity Support Technician (CCST)", "year": 2023},
         ]
         self.skillset = {
             "Secure Software Development": ["Secure SDLC", "Threat Modeling", "Code Review"],
@@ -73,6 +73,7 @@ me.show_skills()
 me.perform_penetration_testing("example.com")
 me.analyze_malware("sample.exe")
 me.design_secure_architecture("enterprise network")
+me.exploit_vulnerabilities("enterprise system")
 
 ```
 ----
