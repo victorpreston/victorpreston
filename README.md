@@ -81,8 +81,6 @@ me.exploit_vulnerabilities("enterprise system")
     <img src="https://img.shields.io/badge/Run-▶-blue" alt="Run" style="width: 100px; height: 50px;">
   </a>
 </div>
-----
-<h1 align='center'>⚡️<i>Xpert</i>⚡️</h1>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
