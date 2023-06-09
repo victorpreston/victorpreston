@@ -39,7 +39,7 @@ class CybersecurityXpert:
             {"name": "Network Hardening", "description": "Performed network hardening to enhance security posture"},
             {"name": "Hash Generator", "description": "Developed a hashing generator"}
         ]    
-    def showcase_skills(self):
+    def show_skills(self):
         print(f"Name: {self.name}")
         print(f"Role: {self.role}")
         print(f"Languages Spoken: {', '.join(self.languages_spoken)}")
@@ -65,8 +65,11 @@ class CybersecurityXpert:
     def design_secure_architecture(self, system):
         print(f"Designing secure architecture for {system}...")
         
+    def exploit_vulnerabilities(self, target):
+        print(f"Exploiting vulnerabilities on {target}...")
+        
 me = CybersecurityXpert()
-me.showcase_skills()
+me.show_skills()
 me.perform_penetration_testing("example.com")
 me.analyze_malware("sample.exe")
 me.design_secure_architecture("enterprise network")
@@ -92,7 +95,7 @@ me.design_secure_architecture("enterprise network")
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p>        print(f"Name: {self.name}")
 
 <a href="https://twitter.com/vpreston254">
   <img align="left" alt="Preston's' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
