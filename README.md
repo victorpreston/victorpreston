@@ -13,8 +13,7 @@
 
                                                                        
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=victorpreston.victorpreston)
+
 
 ```python
 #!/usr/bin/python
