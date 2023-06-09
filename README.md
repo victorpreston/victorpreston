@@ -18,32 +18,27 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-class CybersecurityExpert:
+
+class CybersecurityXpert:
     def __init__(self):
         self.name = "Victor Preston"
         self.role = "Cybersecurity Engineer"
         self.languages_spoken = ["en_US", "es_ES"]
         self.certifications = [
-            {"name": "Certified Ethical Hacker (CEH)", "year": 2022},
-            {"name": "Certified Information Systems Security Professional (CISSP)", "year": 2021},
-            {"name": "GIAC Penetration Tester (GPEN)", "year": 2020}
+            {"name": "Ethical Hacking Essentials (EHE)", "year": 2023},
+            {"name": "Cisco Certified Cybersecurity Support Technician (CCST)", "year": 2021},
         ]
         self.skillset = {
             "Secure Software Development": ["Secure SDLC", "Threat Modeling", "Code Review"],
             "Threat Mitigation": ["Intrusion Detection/Prevention", "Vulnerability Assessment", "Incident Response"],
             "Cryptography": ["Encryption Algorithms", "Key Management", "Digital Signatures"]
         }
-        self.github_profile = "github.com/VictorPreston"
+        self.github_profile = "victorpreston"
         self.projects = [
-            {"name": "Secure Web Application", "description": "Developed a secure web application using OWASP guidelines"},
+            {"name": "Advanced Spyware", "description": "Developed an advanced keylogger"},
             {"name": "Network Hardening", "description": "Performed network hardening to enhance security posture"},
-            {"name": "Security Audit", "description": "Conducted a comprehensive security audit for a financial institution"}
-        ]
-        self.research_papers = [
-            {"title": "Advanced Malware Analysis Techniques", "journal": "Journal of Cybersecurity Research"},
-            {"title": "Secure Communication Protocols", "journal": "International Journal of Network Security"}
-        ]
-
+            {"name": "Hash Generator", "description": "Developed a hashing generator"}
+        ]    
     def showcase_skills(self):
         print(f"Name: {self.name}")
         print(f"Role: {self.role}")
@@ -60,30 +55,23 @@ class CybersecurityExpert:
         print("Projects:")
         for project in self.projects:
             print(f"- {project['name']}: {project['description']}")
-        print("Research Papers:")
-        for paper in self.research_papers:
-            print(f"- {paper['title']} published in {paper['journal']}")
-
+        
     def perform_penetration_testing(self, target):
         print(f"Performing penetration testing on {target}...")
-        # Code for performing penetration testing
-
+        
     def analyze_malware(self, malware_sample):
         print(f"Analyzing malware sample: {malware_sample}...")
-        # Code for analyzing malware
-
+     
     def design_secure_architecture(self, system):
         print(f"Designing secure architecture for {system}...")
-        # Code for designing secure architecture
-
-me = CybersecurityExpert()
+        
+me = CybersecurityXpert()
 me.showcase_skills()
 me.perform_penetration_testing("example.com")
 me.analyze_malware("sample.exe")
 me.design_secure_architecture("enterprise network")
 
 ```
-
 ----
 <h3 align='center'>🔧 Technologies & Tools</h3>
 
