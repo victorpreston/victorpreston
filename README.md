@@ -76,7 +76,7 @@ me.design_secure_architecture("enterprise network")
 me.exploit_vulnerabilities("enterprise system")
 
 ```
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <a href="https://victorpreston.github.io/run/" target="_blank">
     <img src="https://img.shields.io/badge/Run-▶-blue" alt="Run" style="width: 100px; height: 70px;">
   </a>
