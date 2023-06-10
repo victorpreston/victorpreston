@@ -82,7 +82,7 @@ me.exploit_vulnerabilities("enterprise system")
 </div>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" height="100"/>
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>        
 
 <a href="https://twitter.com/vpreston254">
