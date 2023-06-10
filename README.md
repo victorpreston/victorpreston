@@ -77,7 +77,7 @@ me.exploit_vulnerabilities("enterprise system")
 ```
 <div style="display: flex; justify-content: center; align-items: center;">
   <a href="https://victorpreston.github.io/run/" target="_blank">
-    <img src="https://img.shields.io/badge/Run%20Code-▶-red" alt="Run Code ▶" style="width: 120px; height: 50px;">
+    <img src="https://img.shields.io/badge/Run%20Script-▶-red" alt="Run Script ▶" style="width: 130px; height: 50px;">
   </a>
 </div>
 
