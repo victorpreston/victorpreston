@@ -1,7 +1,9 @@
 ![prestonvictor25@gmail com-modified](https://github.com/victorpreston/victorpreston/assets/112781610/08bdfd62-1191-4b39-b67a-2dceeee8c1bc)
-![Profile Views](https://komarev.com/ghpvc/?username=victorpreston&color=blue)
-                      
 
+![Profile Views](https://komarev.com/ghpvc/?username=victorpreston&color=blue)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-blue.svg)](https://en.wikipedia.org/wiki/Open_source)
+
+                      
 
 ```python
 #!/usr/bin/python
