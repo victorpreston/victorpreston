@@ -75,9 +75,7 @@ me.exploit_vulnerabilities("enterprise system")
     <img src="https://img.shields.io/badge/Run%20Script-▶-red" alt="<span style='font-weight: bold'>Run Script</span> ▶" style="width: 130px; height: 50px;">
   </a>
 </div>
-----
-f
-----
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>        
