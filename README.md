@@ -2,8 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=victorpreston&color=blue)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-blue.svg)](https://en.wikipedia.org/wiki/Open_source)
-![Organization](https://img.shields.io/badge/Organization-XXpert--solutions-blue)
-![Organization](https://img.shields.io/badge/Organization-Waanzilishi-blue)
 ![GitHub followers](https://img.shields.io/github/followers/victorpreston?label=Followers&style=social)
 
                       
