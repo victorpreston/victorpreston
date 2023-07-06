@@ -73,25 +73,12 @@ me.exploit_vulnerabilities("enterprise system")
   </a>
 </div>
 
-___
-
 ## Weekly focus
-
-<!--START_SECTION:waka-->
-
-```text
-From: 18 June 2023 - To: 29 June 2023
-
-Python           4 mins          ████████████████████████▒   97.54 %
-C++              0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpreston&theme=github_dark" alt="Weekly Focus" width="100%">
+</p>
 
 ___
-
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
