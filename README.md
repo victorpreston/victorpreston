@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=victorpreston&color=blue)
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-blue.svg)](https://en.wikipedia.org/wiki/Open_source)
 ![GitHub followers](https://img.shields.io/github/followers/victorpreston?label=Followers&style=social)
-<a href="https://twitter.com/vpreston254" target="_blank">
+<a href="https://twitter.com/vpreston254" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Preston's' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
 </a>
 <a href="https://www.linkedin.com/in/victor-preston-273054253/" target="_blank">
