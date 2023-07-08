@@ -13,74 +13,34 @@
   <img align="left" alt="Preston's Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
 </a>
 
-                      
+```css
+~ neofetch
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+                  ......                     victorpreston@github
+            .::############::.               --------------------
+        .:######################:.           OS: Linux, CentOS, Windows
+     .:############################:.        Role: Cybersecurity, DevSecOps 
+   .:#####´`³################³´`####:.       Uptime: 2 years +
+  .#######.   `´´        ``´   .#######.     Packages: 54 (github), 23 (aur)
+ .########:                    :########.
+.########´                      `########.   Language Skills: Python / Java / C / C++ / Go Lang
+:########                        ########:   Unix Skills: POSIX Shell / Bash / AWK / Regex / Perl
+.########.                      .########.   Web Skills: HTML / CSS / JavaScript / PHP  
+ .########:.                  .:########.    Text Formatting Skills: TeX / roff
+  .############:..      ..:############.     Other Language Skills: TIBasic / Batch
+    .###. `³####´        `###########.
+      `###:. `³´          #########`         Languages_spoken: ["en_US", "es_ES"]
+        `³######          ######³´
+            `³³´          `³³´               Website: "victorpreston.github.io/Profile-Linktree/"
+                                             Technologies: Linux, Docker, Splunk, Graylog, ArcSight
+                                             Cloud: Oracle, Azure, AWS
+                                             Databases Skills: Oracle, MySQl, SQLite, MongoDB, Cassandra
 
-class CybersecurityXpert:
-    def __init__(self):
-        self.name = "Victor Preston"
-        self.role = "Cybersecurity Engineer"
-        self.languages_spoken = ["en_US", "es_ES"]
-        self.certifications = [
-            {"name": "Ethical Hacking Essentials (EHE)", "year": 2023},
-            {"name": "Cisco Certified Cybersecurity Support Technician (CCST)", "year": 2023},
-        ]
-        self.skillset = {
-            "Secure Software Development": ["Secure SDLC", "Threat Modeling", "Code Review"],
-            "Threat Mitigation": ["Intrusion Detection/Prevention", "Vulnerability Assessment", "Incident Response"],
-            "Cryptography": ["Encryption Algorithms", "Key Management", "Digital Signatures"]
-        }
-        self.github_profile = "victorpreston"
-        self.projects = [
-            {"name": "Advanced Spyware", "description": "Developed an advanced keylogger"},
-            {"name": "Network Hardening", "description": "Performed network hardening to enhance security posture"},
-            {"name": "Hash Generator", "description": "Developed a hashing generator"}
-        ]    
-    def show_skills(self):
-        print(f"Name: {self.name}")
-        print(f"Role: {self.role}")
-        print(f"Languages Spoken: {', '.join(self.languages_spoken)}")
-        print("Certifications:")
-        for certification in self.certifications:
-            print(f"- {certification['name']} (Year: {certification['year']})")
-        print("Skills:")
-        for category, skills in self.skillset.items():
-            print(f"- {category}:")
-            for skill in skills:
-                print(f"  - {skill}")
-        print(f"GitHub: {self.github_profile}")
-        print("Projects:")
-        for project in self.projects:
-            print(f"- {project['name']}: {project['description']}")
-        
-    def perform_penetration_testing(self, target):
-        print(f"Performing penetration testing on {target}...")
-        
-    def analyze_malware(self, malware_sample):
-        print(f"Analyzing malware sample: {malware_sample}...")
-     
-    def design_secure_architecture(self, system):
-        print(f"Designing secure architecture for {system}...")
-        
-    def exploit_vulnerabilities(self, target):
-        print(f"Exploiting vulnerabilities on {target}...")
-        
-me = CybersecurityXpert()
-me.show_skills()
-me.perform_penetration_testing("example.com")
-me.analyze_malware("sample.exe")
-me.design_secure_architecture("enterprise network")
-me.exploit_vulnerabilities("enterprise system")
+                                             Blogs: Dev
+                                             Contacts: [prestonvictor25@gmail.com, +254743575434]
 
-```
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://victorpreston.github.io/run/" target="_blank">
-    <img src="https://img.shields.io/badge/Run%20Script-▶-red" alt="<span style='font-weight: bold'>Run Script</span> ▶" style="width: 130px; height: 50px;">
-  </a>
-</div>
+```                    
+
 
 ## Weekly focus
 <p align="center">
