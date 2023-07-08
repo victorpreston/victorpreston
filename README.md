@@ -42,12 +42,6 @@
 ```                    
 
 
-## Weekly focus
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorpreston&theme=github_dark" alt="Weekly Focus" width="100%">
-</p>
-
-___
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
