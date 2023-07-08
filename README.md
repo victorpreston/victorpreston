@@ -13,7 +13,7 @@
   <img align="left" alt="Preston's Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
 </a>
 
-```css
+```groovy
 ~ neofetch
 
                   ......                     victorpreston@github
