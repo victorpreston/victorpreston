@@ -41,10 +41,15 @@
 
 ```                    
 
-<br>
-    <a href="https://github.com/victorpreston/github-readme-stats"><img alt="Xpert GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/victorpreston/github-readme-stats"><img alt="Xpert GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpreston&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<div align="center">
+  <a href="https://github.com/victorpreston/github-readme-stats">
+    <img alt="Xpert GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/victorpreston/github-readme-stats">
+    <img alt="Xpert GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpreston&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
