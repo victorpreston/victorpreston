@@ -1,140 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width">
-      <title>victorpreston</title>
-      <link href="style.css" rel="stylesheet" type="text/css" />
-      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
-      <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.png">
-      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-      <script src="script.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victor Preston | Portfolio</title>
+    <!-- Favicon -->
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/112781610?v=4" type="image/x-icon" />
+    <!-- Font Awesome icons -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <!-- Core theme CSS -->
+    <link rel="stylesheet" href="style.css">
+    <!-- Core theme JS -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
   </head>
-    <body>
-	  
-        <div class="container">
-	  
-		<!--────────────────Header───────────────-->
-	<header>
-		<a class="logo" >codewith<span>preston<sup>TM</sup></span>
-		</a>
-		<nav>
-		 <ul class="nav-bar"><div class="bg"></div>
-			<li><a class="nav-link active" href="#home">Home</a></li>
-			<li><a class="nav-link" href="#projects">Projects</a></li>
-			<li><a class="nav-link" href="#contact">Contact</a></li>
-		 </ul>
-			
-			<div class="hamburger">
-				<div class="line1"></div>
-            <div class="line2"></div>
-				<div class="line3"></div>
-			</div>
-		</nav>
-	</header>
-	<main>
-		<!--─────────────────Home────────────────-->
-	  <div id="home">
-		 <div class="filter"></div>
-		 <section class="intro">
-		  <h3>Victor <span>Preston</span><hr></h3>
-		  <div class="main">
-			<div class="circular--portrait">
-			  <img src="img/about.jpeg" style="width:100%;">
-			</div>
-		  </div>
-		  <p id="text">@codewithpreston~<span>$ sudo tell-about</span>|</p>
-		  <script type="text/javascript">
-			var i = 0, text;
-			text = "Technology enthusiast and security guru.\nI love change management, turnarounds and strategically fixing problems using code and thereby fueling growth.\n Inspired by the textures of the great outdors, I am also known for websites that are punctuated by powerfull designs."
 
-			function typing(){
-				if(i<text.length){
-					document.getElementById("text").innerHTML += text.charAt(i);
-					i++;
-					setTimeout(typing, 50);
-				}
-			}
-			typing();
-
-		  </script>
-          <div id="bottom"><u style="font-weight: bold;">Vision:</u> <i> Helping SaaS companies and scrappy startups rank for targeted keywords.</i></div>
-	  </div>  
-	  <!--───────────────Projects───────────────-->
-	  <div id="projects"> 
-		 <h3>My Projects<hr></h3>
-		  <p>Here are some of the many ways for which I may actually help you</p>
-		  <div class="social">
-			<a href="https://codepen.io/victorpreston" target="_blank"><i class='fab fa-codepen'></i></a>
-			<a href="https://github.com/streethealer-programming" target="_blank"><i class='fab fa-github'></i></a>
-		  </div>
-		  <div class="work-box">
-		  <div class="work">
-			
-		<!--───────────────card───────────────-->
-			<div class="card">
-				<i class="fas fa-bars"></i>
-				<div class="work-content">Hotel management system</div></a>
-				  <p style="text-align: center;">
-					<a class="button" href="https://codepen.io/victorpreston" target="_blank">project</a>
-				  </p>
-            </div>
-			<div class="card">
-				<i class="fas fa-bars"></i>
-				<div class="work-content">Random quote generator</div></a>
-				  <p style="text-align: center;">
-					<a class="button" href="https://codepen.io/victorpreston" target="_blank">project</a>
-				  </p>
-            </div>
-            <div class="card">
-				<i class="fas fa-bars"></i>
-				<div class="work-content">Cybersecurity learning platform</div></a>
-				  <p style="text-align: center;">
-					<a class="button" href="https://codepen.io/victorpreston" target="_blank">project</a>
-				  </p>
-            </div>
-            <div class="card">
-				<i class="fas fa-bars"></i>
-				<div class="work-content">Project organisation application</div></a>
-				  <p style="text-align: center;">
-					<a class="button" href="https://codepen.io/victorpreston" target="_blank">project</a>
-				  </p>
-            </div> 
-		
-		  </div>
-		  </div>
-	  </div>
-		 
-		<!--──────────────Contact────────────────-->
-	  <div id="contact">
-		  <!--────social media links─────-->
-		   <h3>Contacts<hr></h3>
-		   <p>For any inqiery about services, I am reachable on the following social media platforms:</p>
-		   									<p>Feel free to reach out</p>
-		   <div class="social">
-			<a href="https://www.linkedin.com/in/victor-preston-273054253/" target="blank"><i class="fab fa-linkedin"></i></a>
-			<a href="https://web.facebook.com/victor.preston.925" target="blank"><i class="fab fa-facebook-f"></i></a>
-			<a href="https://www.instagram.com/_victorpreston254/" target="blank"><i class="fab fa-instagram"></i></a>
-			<a href="https://twitter.com/VictorP73684982" target="blank"><i class="fab fa-twitter"></i></a>
-			<a href="https://github.com/streethealer-programming" target="blank"><i class="fab fa-github"></i></a>
-		  </div>
-      <div class="others-wrapper">
-        		<a href="" target="_blank"><i class='fa fa-envelope'></i>prestonvictor25@gmail.com</a>
-			      <a href="" target="_blank"><i class='fa fa-phone'></i>+254 705 383 588</a>
-      </div>
-		  </div>
-
-	</main>
-	  <footer class="copyright">© 2022 
-		  <a href="https://repl.it/@Panther-12" target="_blank"> Victor <span>Preston<sup>TM</sup></span></a>
-     </footer>
-	  
-  </div>
-  <!--
-  This script places a badge on your repl's full-browser view back to your repl's cover
-  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
-  teal, blue, blurple, magenta, pink!
-  -->
- <!-- <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> --> 
+  <body>
+    <!-- Parallax Pixel Background Animation -->
+    <section class="animated-background">
+      <div id="stars1"></div>
+      <div id="stars2"></div>
+      <div id="stars3"></div>
+    </section>
+    <!-- End of Parallax Pixel Background Animation -->
+     <script type="text/javascript" src="index.js"> 
+    </script> 
+    <div id="console"></div> 
   </body>
 </html>
+
+
+    
