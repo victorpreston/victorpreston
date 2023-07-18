@@ -21,7 +21,6 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    opacity: 0.5
 }
 #console {
     font-family: courier, monospace;
@@ -40,7 +39,7 @@ a {
 }
 
 #a {
-    color: #0f0;
+    color: #f00;
 }
 
 #c {
@@ -53,6 +52,7 @@ a {
 
 #k {
         animation: change 1s;
+        color: #f00;
 }
 
 #op{
