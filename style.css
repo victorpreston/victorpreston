@@ -34,7 +34,7 @@ body {
 }
 @media screen and (max-width: 768px) {
 
-  .your-element {
+  #console {
     width: 100%;
     max-width: none;
   }
