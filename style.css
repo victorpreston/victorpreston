@@ -30,7 +30,6 @@ body {
     margin-right:auto;
     margin-top:100px;
     font-size:14px;
-    font-weight: bold;
 }
 
 a {
@@ -39,7 +38,7 @@ a {
 }
 
 #a {
-    color: #f00;
+    color: #0f0;
 }
 
 #c {
@@ -52,7 +51,6 @@ a {
 
 #k {
         animation: change 1s;
-        color: #f00;
 }
 
 #op{
