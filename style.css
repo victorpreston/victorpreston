@@ -32,6 +32,19 @@ body {
     font-size:14px;
     font-weight: bold;
 }
+@media screen and (max-width: 768px) {
+
+  .your-element {
+    width: 100%;
+    max-width: none;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+}
+
 
 a {
     color: #f00;
