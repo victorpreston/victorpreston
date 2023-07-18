@@ -68,6 +68,6 @@
   <img align="left" alt="Preston's Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://victorpreston.github.io/Profile-Linktree/] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://victorpreston.github.io/victorpreston/] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
 
 
