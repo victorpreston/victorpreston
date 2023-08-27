@@ -39,14 +39,17 @@
                                              Blogs: Dev
                                              Contacts: [prestonvictor25@gmail.com, +254743575434]
 
-```                    
-
-<p align="center"><a href="https://github.com/victorpreston">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-
-<p align="center"><a href="https://github.com/victorpreston"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpreston&layout=compact&theme=react&hide_border=true" />
-</a></p>
-
+```
+<div>                
+<p align="center">
+<a href="https://github.com/victorpreston">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />
+</a>
+<a href="https://github.com/victorpreston">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpreston&layout=compact&theme=react&hide_border=true" />
+</a>
+</p>
+</div>
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
