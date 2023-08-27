@@ -40,6 +40,8 @@
                                              Contacts: [prestonvictor25@gmail.com, +254743575434]
 
 ```
+
+--------
 <div>                
 <p align="center">
 <a href="https://github.com/victorpreston">
@@ -51,6 +53,8 @@
 </p>
 </div>
 
+
+-------------
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats"/>
 </p>        
