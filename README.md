@@ -49,9 +49,6 @@
 <a href="https://github.com/victorpreston">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />
 </a>
-<a href="https://github.com/victorpreston">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpreston&layout=compact&theme=react&hide_border=true" />
-</a>
 </p>
 </div>
 <div align="center">
