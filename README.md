@@ -48,7 +48,7 @@
 <div>                
 <p align="center">
 <a href="https://github.com/victorpreston">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=victorpreston&show_icons=true&theme=transparent&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Victor Preston" />
 </a>
 </p>
 </div>
