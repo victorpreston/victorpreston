@@ -42,7 +42,7 @@
 
 --------
 <a href="https://app.daily.dev/victorpreston">
- <img src="devcard.svg" align="right" width="300" alt="Victor Preston's Dev Card"/></a>
+ <img src="devcard.svg" align="right" width="200" alt="Victor Preston's Dev Card"/></a>
 
 <div>                
 <p align="center">
