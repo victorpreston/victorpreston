@@ -30,7 +30,7 @@
     .###. `³####´        `###########.
       `###:. `³´          #########`         Languages_spoken: ["en_US", "es_ES"]
         `³######          ######³´
-            `³³´          `³³´               Website: "victorpreston.github.io/victorpreston/"
+            `³³´          `³³´               Website: "https://victorpreston.tech"
                                              Technologies: Linux, Docker, Splunk, Graylog, ArcSight
                                              Cloud: Oracle, Azure, AWS
                                              Databases Skills: Oracle, MySQl, SQLite, MongoDB, Cassandra
@@ -75,6 +75,6 @@
   <img align="left" alt="Preston's Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://victorpreston.github.io/victorpreston/] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
+| &nbsp;&nbsp;&nbsp; Website & Gallery : [https://victorpreston.tech] &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Open Source Work : <sub>&#9660; &#9660; &#9660;</sub>
 
 
