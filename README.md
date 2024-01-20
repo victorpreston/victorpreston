@@ -46,8 +46,7 @@
 
 
 <div align="center">
-  <img height="auto" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=victorpreston&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Victor Preston" />
+  <a href="https://github.com/geeky-prashant/github-readme-stats"><img alt="Prashant Bhardwaj's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=geeky-prashant&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
 <div>                
 <p align="center">
