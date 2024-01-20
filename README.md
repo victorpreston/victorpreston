@@ -44,11 +44,7 @@
 <a href="https://app.daily.dev/victorpreston">
  <img src="devcard.svg" align="right" width="260" alt="Victor Preston's Dev Card"/></a>
 
-<div>                
-<p align="center">
- <a href="https://github.com/victorpreston/github-readme-stats"><img alt="Xpert Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpreston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-</div>
+
 <div align="center">
   <img height="auto" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=victorpreston&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Victor Preston" />
