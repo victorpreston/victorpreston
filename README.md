@@ -51,7 +51,7 @@
 <div>                
  <p align="center">
     <a href="https://github.com/geeky-prashant/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="victorpreston streak" src="https://github-readme-streak-stats.herokuapp.com/?user=victorpreston&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title="🔥 Follow me on github and star some of my repos" alt="victorpreston streak" src="https://github-readme-streak-stats.herokuapp.com/?user=victorpreston&theme=react&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 </div>
