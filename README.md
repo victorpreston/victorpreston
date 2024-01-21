@@ -49,8 +49,10 @@
   <a href="https://github.com/victorpreston/github-readme-stats"><img alt="victorpreston Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpreston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
 <div>                
-<p align="center">
- <a href="https://github.com/victorpreston/github-readme-stats"><img alt="Xpert Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=victorpreston&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+ <p align="center">
+    <a href="https://github.com/geeky-prashant/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Bhardwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 </div>
 
