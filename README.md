@@ -18,7 +18,7 @@
                   ......                     victorpreston@github
             .::############::.               --------------------
         .:######################:.           OS: Linux, CentOS, Windows
-     .:############################:.        Role: Cybersecurity, DevSecOps 
+     .:############################:.        Role: Software Engineer 
    .:#####´`³################³´`####:.       Uptime: 2 years +
   .#######.   `´´        ``´   .#######.     Packages: 54 (github), 23 (aur)
  .########:                    :########.
