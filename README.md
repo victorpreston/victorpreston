@@ -2,14 +2,14 @@
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://en.wikipedia.org/wiki/Open_source)
 ![GitHub followers](https://img.shields.io/github/followers/victorpreston?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/victorpreston?label=Stars&style=social)
-<a href="https://twitter.com/vpreston254" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="Preston's' Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://twitter.com/_victorpreston" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Preston's' Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/victor-preston-273054253/" target="_blank">
+<a href="https://www.linkedin.com/in/victor-preston" target="_blank">
   <img align="left" alt="Preston's' LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 <a href="https://codepen.io/victorpreston" target="_blank">
-  <img align="left" alt="Preston's Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
+  <img title="🔥 Follow me on github and star some of my repos" align="left" alt="Preston's Codepen" width="20px" src="https://simpleicons.now.sh/codepen/495f7e" />
 </a>
 
 ```groovy
