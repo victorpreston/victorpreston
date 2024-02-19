@@ -1,7 +1,7 @@
 
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://en.wikipedia.org/wiki/Open_source)
-![GitHub followers](https://img.shields.io/github/followers/victorpreston?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/victorpreston?label=Stars&style=social)
+
 <a href="https://twitter.com/_victorpreston" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="Preston's' Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
