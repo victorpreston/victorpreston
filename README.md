@@ -10,7 +10,7 @@
  4. [WhatsApp](https://wa.link/9p7yn3)
  5. [Blog](https://medium.com/@prestonvictor25)
 
-
+<h3>
 <p align="center" >
   <strong style="font-weight: 600;">
 As a passionate software engineer, I specialize in building high performance software applications that scale effortlessly. 
@@ -30,8 +30,8 @@ I continuously seek out new technologies to deliver innovative solutions that dr
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,bash,django" /></br>
-    <img src="https://skillicons.dev/icons?i=github,java,python,go,react,rust,mysql,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,php,ruby,nginx,typescript,vscode" />  
+    <img src="https://skillicons.dev/icons?i=git,java,python,go,react,rust,mysql,nextjs" /></br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,php,laravel,firebase,typescript,linux" />  
   </a></p>
 
 ----------
