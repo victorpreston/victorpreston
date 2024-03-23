@@ -4,7 +4,4 @@
 
 
 
-<a href="https://app.daily.dev/victorpreston">
- <img src="devcard.svg" align="left" width="300" alt="Victor Preston's Dev Card"/></a>
-
 
