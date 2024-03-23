@@ -4,11 +4,11 @@
 
 
 ## Reach Out To Me
- 1. [Website](https://victorpreston.tech)
- 2. [Twitter](https://twitter.com/_victorpreston)
- 3. [LinkedIn](https://www.linkedin.com/in/victor-preston)
- 4. [WhatsApp](https://wa.link/9p7yn3)
- 5. [Blog](https://medium.com/@prestonvictor25)
+ 1. [**Website**](https://victorpreston.tech)
+ 2. [**Twitter**](https://twitter.com/_victorpreston)
+ 3. [**LinkedIn**](https://www.linkedin.com/in/victor-preston)
+ 4. [**WhatsApp**](https://wa.link/9p7yn3)
+ 5. [**Blog**](https://medium.com/@prestonvictor25)
 
 <h3>
 <p align="center" >
