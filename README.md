@@ -22,9 +22,7 @@ I continuously seek out new technologies to deliver innovative solutions that dr
   </strong>
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=victorpreston&custom_title=Xpert's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="victorpreston" />
-</p>
+
 
  <p align='center'>
    <img src="https://komarev.com/ghpvc/?username=victorpreston&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
