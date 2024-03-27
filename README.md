@@ -27,7 +27,7 @@ I continuously seek out new technologies to deliver innovative solutions that dr
 </p>
 
  <p align='center'>
-   <img src="https://komarev.com/ghpvc/?username=victorpreston&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="U7P4L-IN" />
+   <img src="https://komarev.com/ghpvc/?username=victorpreston&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="victorpreston" />
    <br>
 
 <p align="center">
