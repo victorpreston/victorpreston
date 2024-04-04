@@ -23,7 +23,7 @@ My approach combines technical expertise with innovative thinking, aiming to tra
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=victorpreston&custom_title=Xpert's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="victorpreston" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victorpreston&custom_title=vp's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="victorpreston" />
 </p>
 
  <p align='center'>
