@@ -16,9 +16,7 @@
 <h3>
 <p align="center" >
   <strong style="font-weight: 600;">
-As a passionate software engineer, I specialize in crafting high-performance applications designed for scalability and impact. 
-Driven by curiosity, I relentlessly pursue new technologies to develop solutions that address practical problems. 
-My approach combines technical expertise with innovative thinking, aiming to transform complex challenges into simple, effective outcomes. 
+I believe that staying curious is essential for growth. Whether it’s exploring new frameworks, attending tech conferences, taking part in tech communities or contributing to open-source projects, I’m always eager to expand my knowledge
   </strong>
 </p>
 
