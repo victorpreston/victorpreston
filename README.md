@@ -24,9 +24,7 @@ I believe that staying curious is essential for growth. Whether it’s exploring
   <img src="https://github-readme-stats.vercel.app/api?username=victorpreston&custom_title=vp's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="victorpreston" />
 </p>
 
- <p align='center'>
-   <img src="https://komarev.com/ghpvc/?username=victorpreston&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="victorpreston" />
-   <br>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
