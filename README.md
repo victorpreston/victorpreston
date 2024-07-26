@@ -4,11 +4,10 @@
 ![GitHub stars](https://img.shields.io/github/followers/victorpreston?label=Followers&style=social)
 
 
-## Reach Out To Me
+## Contacts
  1. <a href="https://victorpreston.tech" target="_blank">**Website**</a>
  2. [**Twitter**](https://twitter.com/_victorpreston)
  3. [**LinkedIn**](https://www.linkedin.com/in/victor-preston)
- 4. [**WhatsApp**](https://wa.link/9p7yn3)
  5. [**Blog**](https://medium.com/@prestonvictor25)
  6. [**Gmail**](mailto:prestonvictor25@gmail.com)
  
