@@ -15,7 +15,7 @@
 <h3>
 <p align="center" >
   <strong style="font-weight: 600;">
-I believe that staying curious is essential for growth. Whether it’s exploring new frameworks, attending tech conferences, taking part in tech communities or contributing to open-source projects, I’m always eager to expand my knowledge
+Blending full-stack development with meticulous testing to deliver software that's functional, exceptional, and meets user requirements.
   </strong>
 </p>
 
@@ -28,8 +28,8 @@ I believe that staying curious is essential for growth. Whether it’s exploring
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,bash,django" /></br>
-    <img src="https://skillicons.dev/icons?i=git,java,python,go,react,rust,mysql,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,php,laravel,firebase,typescript,linux" />  
+    <img src="https://skillicons.dev/icons?i=git,java,python,postgres,react,prisma,mysql,nextjs" /></br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,angular,nextjs,firebase,typescript,linux,jest" />  
   </a></p>
 
 
