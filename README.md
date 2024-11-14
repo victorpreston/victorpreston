@@ -5,7 +5,7 @@
 
 
 ## Contacts
- 1. <a href="https://victorpreston.tech" target="_blank">**Website**</a>
+ 1. <a href="https://victorpreston.vercel.app/" target="_blank">**Website**</a>
  2. [**Twitter**](https://twitter.com/_victorpreston)
  3. [**LinkedIn**](https://www.linkedin.com/in/victor-preston)
  5. [**Blog**](https://medium.com/@prestonvictor25)
