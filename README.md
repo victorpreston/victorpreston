@@ -15,9 +15,10 @@
 <h3>
 <p align="center" >
   <strong style="font-weight: 600;">
-Blending full-stack development with meticulous testing to deliver software that's functional, exceptional, and meets user requirements.
+Passionate Full Stack Developer with 3+ years of experience, specializing in <code>Angular</code>, <code>TypeScript</code>, <code>Python</code>, <code>Django</code>, <code>NodeJS</code>, <code>React</code>, <code>NextJS</code>, <code>ExpressJS</code>, and <code>NestJS</code> for building robust web applications. Committed to quality-driven development through comprehensive testing using <code>Jest</code>, <code>Jasmine</code>, <code>Cypress</code>, <code>Grafana k6</code>, and <code>Selenium</code> to deliver high-performance solutions.
   </strong>
 </p>
+</h3>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=victorpreston&custom_title=vp's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="victorpreston" />
