@@ -30,7 +30,7 @@ Passionate Full Stack Developer with 3+ years of experience, specializing in <co
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,bash,django" /></br>
     <img src="https://skillicons.dev/icons?i=git,java,python,postgres,react,prisma,mysql,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,angular,nextjs,firebase,typescript,linux,jest" />  
+    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,angular,nextjs,firebase,typescript,linux,jest,flutter,dart" />  
   </a></p>
 
 
