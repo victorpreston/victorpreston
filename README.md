@@ -15,7 +15,11 @@
 <h3>
 <p align="center" >
   <strong style="font-weight: 600;">
-Passionate Full Stack Developer with 3+ years of experience, specializing in <code>Angular</code>, <code>TypeScript</code>, <code>Python</code>, <code>Django</code>, <code>NodeJS</code>, <code>React</code>, <code>NextJS</code>, <code>ExpressJS</code>, and <code>NestJS</code> for building robust web applications. Committed to quality-driven development through comprehensive testing using <code>Jest</code>, <code>Jasmine</code>, <code>Cypress</code>, <code>Grafana k6</code>, and <code>Selenium</code> to deliver high-performance solutions.
+I am a dedicated and results-driven Software Developer with over 3 years of experience in designing and developing
+web applications. Proficient in front-end frameworks like <code>Angular (v8+)</code>, <code>NgRx</code>, and <code>Tailwind CSS</code>, as well as backend technologies like <code>Node.js</code>, <code>Express</code>, and <code>TypeScript</code>. My expertise spans from optimizing application performance
+to ensuring high-quality code through testing frameworks such as <code>Jasmine</code>, <code>Cypress</code>, and <code>k6</code>. I am passionate about
+delivering innovative and user-centric solutions that meet organizational goals while mentoring and collaborating with
+teams to foster growth and innovation
   </strong>
 </p>
 </h3>
