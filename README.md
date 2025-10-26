@@ -22,9 +22,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,bash,django" /></br>
-    <img src="https://skillicons.dev/icons?i=git,java,python,postgres,react,prisma,mysql,nextjs" /></br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,nodejs,nuxtjs,angular,nextjs,firebase,typescript,linux,jest,flutter,dart" />  
+    <img src="https://skillicons.dev/icons?i=java,typescript,nodejs,nestjs,django,spring,postgres,mysql,redis,rabbitmq" /></br>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,grafana,prometheus,jenkins,git,githubactions" /></br>
+    <img src="https://skillicons.dev/icons?i=jest,postman,linux,bash,prisma,hibernate" /> </a> </p>
   </a></p>
 
 
