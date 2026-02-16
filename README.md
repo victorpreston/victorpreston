@@ -1,5 +1,4 @@
 
-![GitHub stars](https://img.shields.io/github/stars/victorpreston?label=Stars&style=social)
 
 
  
