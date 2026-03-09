@@ -12,15 +12,26 @@
 
 <h4>What I'm Building</h4>
 
-- **[Deflow-saas](devflow-saas.vercel.app/)**: Intelligent code review that understands your entire codebase. Catch bugs, enforce standards, and merge PRs faster.
-- **[Buni](https://buni-frontend.vercel.app/)**: AI-powered real estate platform with smart property matching, virtual tours & verified listings
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" />
+
+<p>
+• <b><a href="https://devflow-saas.vercel.app/">Devflow</a></b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+LLM-powered code review platform with vector search, codebase-aware context & automated PR analysis.
+</p>
+
+<p>
+• <b><a href="https://buni-frontend.vercel.app/">Buni</a></b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+AI-powered real estate platform with smart property matching, virtual tours & verified listings.
+</p>
 
 
 <p align="center">
   <a href="https://victorpreston.dev">
     <img src="https://img.shields.io/badge/Portfolio-victorpreston.dev-000?style=flat-square" />
   </a>
-  <a href="https://linkedin.com/in/victorpreston">
+  <a href="https://linkedin.com/in/victor-preston">
     <img src="https://img.shields.io/badge/LinkedIn-victorpreston-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/_victorpreston">
